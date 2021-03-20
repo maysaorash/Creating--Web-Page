@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia;
+    background-color: lightblue;
+    letter-spacing: 2px;
+  font-size: 15px;
+  }
+  header * {
+     display: inline-block;
+  }
+  header {
+    text-align: center;
+    background-color: lightpink;
+    position:fixed;
+    width: 100%;
+  }
+  header h1{
+    font-style: italic;
+  }
+  header nav{
+    font-size: 1.3em;
+  } 
+  header nav a{
+    color: purple;
+    text-decoration: none;
+    font-weight:bolder;
+  
+  }
+  header nav li{
+    margin-left: 0 1em;
+  }
+  main {
+    max-width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    position:relative;
+    margin-top: 7.5em;
+  }
+  footer {
+    text-align: center;
+    background-color:black;
+    color: white;
+    height: 100px;
+  }
+  footer a{
+    color: white;
+  }
+  img{
+    width: 100px;
+    
+  }
